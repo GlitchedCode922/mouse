@@ -41,7 +41,7 @@
 		<member name="velocity" type="Vector2" setter="set_velocity" getter="get_velocity" default="Vector2(0, 0)">
 			The mouse velocity in pixels per second.
 			[b]Note:[/b] [member velocity] is automatically scaled according to the content scale factor, which is defined by the project's stretch mode settings.
-			[b]Note:[/b] Use [member screen_relative] for mouse aiming using the [constant Input.MOUSE_MODE_CAPTURED] mouse mode. 
+			[b]Note:[/b] Use [member screen_relative] for mouse aiming using the [constant Input.MOUSE_MODE_CAPTURED] mouse mode.
 		</member>
 	</members>
 </class>
